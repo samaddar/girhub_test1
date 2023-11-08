@@ -4,3 +4,4 @@ editing - first edit after creation and first merge, pushing via https
 
 editing next - to test ssh push
 
+editing online second time - to test git pull .
