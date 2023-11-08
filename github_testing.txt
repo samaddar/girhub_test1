@@ -1,4 +1,6 @@
 testing github - first file. 
 
-editing - first edit after creation and first merge
+editing - first edit after creation and first merge, pushing via https
+
+editing next - to test ssh push
 
