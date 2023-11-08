@@ -9,3 +9,5 @@ editing online second time - to test git pull .
 Now editing again on local machine to push back
 
 editing online to try git fetch and git merge
+
+Now editing again on local machine to push back again after get fetch
